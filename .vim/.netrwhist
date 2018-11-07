@@ -1,9 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/Users/xavier/src/link-b/urbanstore/urbanstore/app/design'
-let g:netrw_dirhist_2='/Users/xavier/src/link-b/urbanstore/urbanstore/app'
-let g:netrw_dirhist_3='/Users/xavier/src/link-b/urbanstore/urbanstore'
-let g:netrw_dirhist_4='/Users/xavier/src/link-b/urbanstore'
-let g:netrw_dirhist_5='/Users/xavier/src/link-b/urbanstore/urbanstore'
-let g:netrw_dirhist_6='/Users/xavier/src/link-b/urbanstore/urbanstore/js'
-let g:netrw_dirhist_7='/Users/xavier/src/link-b/megainver/repo/megainver'
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/xavier'
+let g:netrw_dirhist_2='/Users/xavier/.vim'
+let g:netrw_dirhist_3='/Users/xavier/src/clientes/anting/alistate/src/alistate/apps/regalos'
+let g:netrw_dirhist_4='/Users/xavier'
+let g:netrw_dirhist_5='/Users/xavier/src/clientes/anting/alistate/src/alistate/apps/regalos'
